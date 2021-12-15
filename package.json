@@ -31,6 +31,8 @@
         "prepublishOnly": "npm run test && npm run exports"
     },
     "devDependencies": {
+        "@atomico/exports": "^0.22.0",
+        "typescript": "^4.5.4",
         "@esm-bundle/chai": "*",
         "@uppercod/vite-meta-url": "latest",
         "@uppercod/vite-meta-url-load-css": "latest",
